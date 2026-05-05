@@ -8,7 +8,7 @@ Technology enthusiast with an interest in all areas, currently focused on game d
 
 ## 🧰 Languages and Tools
 
-<div>
+<div style="display: flex; align-items: center; gap: 10px;">
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
