@@ -4,15 +4,12 @@ Student in the Systems Analysis and Development program at SENAI.
 
 Technology enthusiast with an interest in all areas, currently focused on game development. I believe that creating games offers unique opportunities for learning and independent growth, combining creativity, technical skills, and innovation.
 
-<br>
 
+### GitHub stats
 
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=CaiqueTessaroto&show_icons=true&theme=github_dark&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=ffffff" />[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=CaiqueTessaroto&theme=github_dark&background=000&hide_border=true&ring=FFFFFF&stroke=FFFFFF&fire=FFFFFF&dates=FFF)](...)
 
-<br>
-
- 
-<div> 
- 
- 
 </div>
 
